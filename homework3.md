@@ -1,6 +1,6 @@
 复现步骤：
 
-<img src="langchain1.jpg">
+
 <img src="langchain1.jpg">
 <img src="langchain2.jpg">
 <img src="langchain3.jpg">
