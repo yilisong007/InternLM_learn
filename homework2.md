@@ -19,6 +19,6 @@
     <img src="300story.jpg">
 
 作业2.
-  具体实现：
+  实现如下，直接把整个包都本地下载下来了，超过10G左右：
   
   <img src="huggingface_hub.jpg">
