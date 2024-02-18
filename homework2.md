@@ -20,4 +20,5 @@
 
 作业2.
   具体实现：
+  
   <img src="huggingface_hub.jpg">
