@@ -8,6 +8,4 @@
 <img src="lmdeploy3.jpg">
 4、
 <img src="lmdeploy4.jpg">
-5、
-<img src="lmdeploy5.jpg">
 
